@@ -392,7 +392,7 @@
       }
       value = e.target.value + digit;
       value = value.replace(/\D/g, '');
-      if (value.length > 6) {
+      if (value.length > 4) {
         return e.preventDefault();
       }
     };
