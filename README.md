@@ -1,3 +1,6 @@
+# NO LONGER USED BY DOCKWA
+[Commit that removes library](https://github.com/dockwa/dockwa-rails/commit/10cb1c269a0ca9a55e8c29e89036905f5d75402e)
+
 # payform
 
 [![Build Status](https://travis-ci.org/jondavidjohn/payform.svg?branch=master)](https://travis-ci.org/jondavidjohn/payform)
